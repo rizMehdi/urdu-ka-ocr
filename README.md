@@ -1,4 +1,4 @@
-# Urdu Textline OCR
+# Urdu Ka OCR
 It is a minimal version of my research project on Urdu OCR.
 This code can convert your urdu "textline" (check test.jpg) into urdu text.
 
